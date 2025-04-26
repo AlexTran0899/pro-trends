@@ -1,0 +1,81 @@
+
+  {
+    "outdoor": [
+      {
+        "category": "Camping Gear",
+        "product": "Coleman Sundome Tent",
+        "change_30_days": "+110%",
+        "image_url": "https://i5.walmartimages.com/asr/2475bf07-e492-4edd-84ff-0c56d5deca19.4e65c74beccf56b44dbafbca357171f2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+      },
+      {
+        "category": "Hiking Gear",
+        "product": "Salomon X Ultra 4 Hiking Boots",
+        "change_30_days": "+95%",
+        "image_url": "https://www.rei.com/media/046f93b3-1833-4bcc-bfcb-b43925763782.jpg?size=784x588"
+  
+      },
+      {
+        "category": "Outdoor Cooking",
+        "product": "Weber Charcoal Kettle Grill",
+        "change_30_days": "+130%",
+        "image_url": "https://m.media-amazon.com/images/I/71uQnSUmBFL.jpg"
+      },
+      {
+        "category": "Garden & Patio",
+        "product": "Adirondack Chair Set",
+        "change_30_days": "+75%",
+        "image_url": "https://pawleysislandhammocks.com/gallery/srac1-combo-xx.jpg"
+      },
+      {
+        "category": "Water Sports",
+        "product": "Intex Inflatable Kayak",
+        "change_30_days": "+85%",
+        "image_url": "https://cdn11.bigcommerce.com/s-u7yn5f7nmq/images/stencil/1280x1280/products/493/14105/68307_A02-2_MH_ST__99086.1691012321.jpg?c=2"
+      },
+      {
+        "category": "Patio Lighting",
+        "product": "Solar LED String Lights",
+        "change_30_days": "+65%",
+        "image_url": "https://m.media-amazon.com/images/I/71qwtuKYtGL.jpg"
+      }
+    ],
+    "mens_apparel": [
+        {
+          "category": "Men’s Apparel",
+          "product": "Lacoste Polo Shirt",
+          "change_30_days": "+120%",
+          "image_url": "https://i.ebayimg.com/images/g/0IUAAOSwaUhiC5wm/s-l1200.jpg"
+        },
+        {
+          "category": "Men’s Apparel",
+          "product": "Levi’s 501 Original Jeans",
+          "change_30_days": "+90%",
+          "image_url": "https://lsco.scene7.com/is/image/lsco/005010101-detail1-pdp-ld?fmt=jpeg&qlt=70&resMode=sharp2&fit=crop,1&op_usm=0.6,0.6,8&wid=2000&hei=2500"
+
+        },
+        {
+          "category": "Men’s Apparel",
+          "product": "The North Face Denali Fleece Jacket",
+          "change_30_days": "+105%",
+          "image_url": "https://www.bobssportschalet.com/prodimages/96662-MINERAL_GREY-l.jpg"
+        },
+        {
+          "category": "Men’s Apparel",
+          "product": "Uniqlo Ultra Light Down Jacket",
+          "change_30_days": "+80%",
+          "image_url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470067/sub/goods_470067_sub14_3x4.jpg?width=600"
+        },
+        {
+          "category": "Men’s Apparel",
+          "product": "Nike Dri-FIT T-Shirt",
+          "change_30_days": "+88%",
+          "image_url": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/kxjgqmbim9zxricso57p/M+NK+DF+TEE+DFC+CREW+SOLID.png"
+        },
+        {
+          "category": "Men’s Apparel",
+          "product": "Under Armour Hooded Sweatshirt",
+          "change_30_days": "+100%",
+          "image_url": "https://underarmour.scene7.com/is/image/Underarmour/V5-1379757-001_FC?rp=standard-0pad%7CpdpMainDesktop&scl=1&fmt=jpg&qlt=85&resMode=sharp2&cache=on%2Con&bgc=F0F0F0&wid=566&hei=708&size=566%2C708"
+        }
+      ]
+  }
